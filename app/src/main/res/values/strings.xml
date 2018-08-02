@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Chandigarh</string>
+    <string name="jw_mariot">Address: Plot no: 6, Sector 35-B, Dakshin Marg, Chandigarh 160035, India</string>
+    <string name="hotel_rajshree">Address: 181/45 Industrial and Business Park Phase 1, Chandigarh, India</string>
+    <string name="hyatt_regency">Address: 178 Industrial And Business Park | Phase I, Chandigarh 160002, India</string>
+    <string name="lemon_tree">Address: 3mw, Chandigarh 160152, India</string>
+    <string name="red_fox">Address: Plot No 15 | Industrial Area Phase I, Chandigarh 160002, India</string>
+    <string name="taj_hotel">Address: Block No.9 | Sector 17 A, Chandigarh 160017, India</string>
+
+
+
+
+    <string name="rock_garden">Address: Sector No.1, Chandigarh, India</string>
+    <string name="terraced_garden">Address: Sector-33 | 4 Km from Chandigarh, Chandigarh, India</string>
+    <string name="japenese_garden">Address: Sector 31, Chandigarh 160030, India</string>
+    <string name="batonical_garden">Address: Village Sarangpur | Near Village Dhanas on Pgi - Kurali Road, Chandigarh 160036, India</string>
+    <string name="fragnence_garden">Address: Sector 36A | South side of Hibiscus Garden, Chandigarh 160036, India</string>
+    <string name="butterfly_garden">Address: Sector 26, Chandigarh, 160019</string>
+    <string name="sukhna_lake">Address: Sector 28,Chandigarh</string>
+    <string name="rose_garden">Address: Track, 16B, Sector 16, Chandigarh, 160016</string>
+
+
+
+    <string name="mall_elante">Address: Industrial Area, Phase 1, Chandigarh</string>
+    <string name="mall_dlf">Address: IIT Park, Chandigarh.</string>
+    <string name="mall_north_country_mall">Address: Mohali (Kharar)</string>
+    <string name="mall_paras">Address: Zirakpur</string>
+    <string name="mall_emporium">Address: Industrial Area, Phase 1, Chandigarh.</string>
+    <string name="mall_centra">Address: Industrial Area, Phase 1, Chandigarh</string>
+    
+    <string name="other_zoo"> Chattbir Zoo Rd, Sahibzada, Ajit Singh Nagar, Chhat, Punjab 140603</string>
+    <string name="other_openhandmonument"> 31, Uttar Marg, 4A, Sector 4, Chandigarh, 160001</string>
+    <string name="other_govtmeseum"> Address: Jan Marg, 10C, Sector 10 C, Chandigarh, 160011</string>
+    <string name="other_highcourtmeseum"> Address: Capitol Complex, Sector 1, Chandigarh, 160001</string>
+    <string name="other_naturalhistory"> Address: Sector 10C, Madhya Marg, Sector 10, Chandigarh, 160011</string>
+
+
+
+    <string name="jw_mariot_name">JW Mariot</string>
+    <string name="rajshree_hotel_name">RajShree Hotel</string>
+    <string name="hyatt_regency_name">Hyatt Regency</string>
+    <string name="taj_hotel_name">Taj Hotel</string>
+    <string name="red_fox_name">Red Fox</string>
+    <string name="lemon_tree_name">Lemon Tree</string>
+    <string name="govt_meuseum_name">Government Meuseum</string>
+    <string name="highcourt_name">High Court Meuseum</string>
+    <string name="naturalhistory_name">Natural History Meuseum</string>
+    <string name="openhand_name">Open Hand Monument</string>
+    <string name="zoo_name">Zoo</string>
+    <string name="rock_name">Rock Garden</string>
+    <string name="butterfly">Butterfly Garden</string>
+    <string name="batonical_name">Batonical Garden</string>
+    <string name="fragenence_name">Garden of Fragenence</string>
+    <string name="japenese_name">Japenese Garden</string>
+    <string name="rose_name">Rose Garden</string>
+    <string name="sukhna_name">Sukhna Lake</string>
+    <string name="terraced_name">Terraced Garden</string>
+    <string name="centra_name">Centra Mall</string>
+    <string name="dlf_name">DLF City Center</string>
+    <string name="elante_name">Elante Mall</string>
+    <string name="emporium_name">Emporium Mall</string>
+    <string name="north_name">North Country Mall</string>
+    <string name="paras_name">Paras Downtown Square</string>
+
+
+</resources>
+
+
